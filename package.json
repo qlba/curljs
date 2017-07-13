@@ -1,0 +1,26 @@
+{
+  "name": "curljs",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qlba/curljs.git"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "qlba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qlba/curljs/issues"
+  },
+  "homepage": "https://github.com/qlba/curljs#readme",
+  "dependencies": {
+    "twostep": "^0.4.2",
+    "underscore": "^1.8.3"
+  }
+}
